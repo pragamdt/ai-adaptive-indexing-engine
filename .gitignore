@@ -1,0 +1,17 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment & Config
+.env
+.venv/
+env/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+executer2.py
+executer3.py
